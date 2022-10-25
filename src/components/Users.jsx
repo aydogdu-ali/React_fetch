@@ -24,7 +24,7 @@ const[loading, setLoading] = useState(true)
 
   return (
     <div className="users">
-        
+        <h1>Users Information</h1>
 
         {loading && <div className="load">Loading...</div>}
         <ul>

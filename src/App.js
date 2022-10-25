@@ -1,13 +1,16 @@
 
 import './App.css';
-import Users from './components/Users';
+
+import Information from './components/Information';
 
 function App() {
   return (
-    <div className="App">
-      <h1>Users Information</h1>
-     <Users/> 
-    </div>
+
+    <>
+
+    <Information/>
+    
+    </>
   );
 }
 
