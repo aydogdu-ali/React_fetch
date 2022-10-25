@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App h1{
+  color:rgb(241, 152, 9);
+  width: 16rem;
+  margin: 1rem auto;
+}
+
+.users {
+  
+  margin: 2rem;
+  color: rgb(18, 126, 220);
+}
+
+  
+
+ul li {
+  line-height: 1.2rem;
+  text-align:start;
+   list-style-type: none;
+   width: 15rem;
+   margin: 1rem auto;
+   cursor: pointer;
+ 
+
+}
+
+li:hover{
+  text-align: center;
+  color: rgb(6, 96, 99);
+  box-shadow: 2px 2px 2px 5px rgba(0,0,0,0.5);
+}
+
+
+.load{
+  font-size: 5rem;
+  text-align: center;
+  color: red;
+}
