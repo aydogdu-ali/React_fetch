@@ -6,6 +6,8 @@ const Information = () => {
     const[show, setShow] = useState(false)
     const [text,setText] = useState("Show")
    
+
+    /*Hem Hullanıcı bilgisinin ekrana getirilmesi için hem de butonun yazısının içeriğinin değişmesi için onClick tanımladım.*/
 const handletoogle =()=>{
      setShow(!show);
     const buttonText = show ? "Show":"Hide"
@@ -25,6 +27,7 @@ const handletoogle =()=>{
         >{text}</button></p>
     </div>
     
+    {/*Bu arada Users Componentinin ilk açlışta ekranda gözükmemesi için kısa if yapısını kullandım.*/}
         {show&& (
           <div>
             <Users/> 
