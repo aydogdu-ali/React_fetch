@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aydogdu-ali/fetch/static/css/main.9dee3422.css",
+    "main.js": "/aydogdu-ali/fetch/static/js/main.dc85fcbb.js",
+    "index.html": "/aydogdu-ali/fetch/index.html",
+    "main.9dee3422.css.map": "/aydogdu-ali/fetch/static/css/main.9dee3422.css.map",
+    "main.dc85fcbb.js.map": "/aydogdu-ali/fetch/static/js/main.dc85fcbb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9dee3422.css",
+    "static/js/main.dc85fcbb.js"
+  ]
+}
