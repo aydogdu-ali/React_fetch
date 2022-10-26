@@ -8,4 +8,4 @@
 #Uygulamanın sonucu görmek için aşağıdaki linke tıklayabilirsiniz.
 
 
- https://aydogdu-ali.github.io/fetch/
+https://aydogdu-ali.github.io/React_fetch/
