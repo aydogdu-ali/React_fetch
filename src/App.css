@@ -3,6 +3,10 @@
   padding: 0;
   box-sizing: border-box;
 }
+body{
+
+  background-color: beige;
+}
 
 .users h1{
   color:rgb(241, 152, 9);
@@ -10,9 +14,15 @@
   margin: 1rem auto;
 }
 
+.users h1:hover{
+ 
+  text-align: center;
+  color: rgb(246, 202, 10);
+  box-shadow: 4px 2px 2px 15px rgba(0,0,0,0.9);
+} 
+
 .users {
-  
-  margin: 2rem;
+   margin: 2rem;
   color: rgb(18, 126, 220);
 }
 
@@ -50,21 +60,30 @@ li:hover{
 }
 .information h1 {
   text-align: center;
-  color: crimson;
-  background-color: black;
+  color: rgb(82, 240, 15);
+  background-color: rgba(0, 0, 0, 0.9);
   width: max-content;
   margin: auto;
-  padding: 1.3rem;
-  border-radius: 45%;
+  padding: 1.5rem;
+  border-radius: 50%;
 }
 
 
 .button{
   width: 7rem;
   height: 2rem;
-  background-color: aqua;
+  background-color: rgba(200, 173, 38, 0.736);
   border-color: white;
+  color:rgb(13, 12, 3);
   text-align: center;
 margin-top: 2rem;
+font-weight: bolder;
+font-size: 1.2rem;
+border-radius: 25px;
 
+}
+.button:hover{
+  background-color:rgb(13, 12, 3, 0.8);
+  color:rgba(200, 173, 38, 0.736);
+  border-radius: 25px;
 }
