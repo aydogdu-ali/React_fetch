@@ -1,9 +1,9 @@
 
 #Bu çalışmada HTML,CSS ve React araçları kullanılmıştır.
 
-##React  component yapısı içinde fetch yöntemi ile kullanıcı bilgileri çekilmiştir. Ve bu bilgileri görmek isteyen müşteri ile  etkileşimleri gösterilmiştir.
+#React  component yapısı içinde fetch yöntemi ile kullanıcı  isimleri çekilmiştir. Bu bilgileri görmek isteyen müşteri ile  etkileşimler gösterilmiştir.
 
-##Bu arada useState ve UseEffect kullanımları sade ve basit seklinde kullanımı gösterilmiştir. Uygulamanın sonucu görmek için aşağıdaki linke tıklayabilirsiniz.
+#Bu uygulamada useState ve UseEffect kullanımları sade ve basit seklinde kullanımı gösterilmiştir. Uygulamanın sonucu görmek için aşağıdaki linke tıklayabilirsiniz.
 
 
  https://aydogdu-ali.github.io/fetch/
